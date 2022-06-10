@@ -1,0 +1,17 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.us-east.cf.cloud.ibm.com",
+      "Org": "Steven Nash",
+      "Space": "space1"
+    },
+    "Name": "DCNAFinalProject",
+    "Instrumentation": {
+      "host": "dcnafinalproject",
+      "domain": "us-east.mybluemix.net"
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
